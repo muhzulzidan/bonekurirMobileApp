@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "379865990799",
+    "project_id": "bonekurir-5f1f2",
+    "storage_bucket": "bonekurir-5f1f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379865990799:android:d41e501ae47dd7eecc52fa",
+        "android_client_info": {
+          "package_name": "bone.kurir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379865990799-ijbq2n3avehhl9i2m8j1785rq3l1aemn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhdxc-7-jEOh3eEYFUqO2oh8Uz1l2q7nI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379865990799-ijbq2n3avehhl9i2m8j1785rq3l1aemn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
